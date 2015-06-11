@@ -1,4 +1,4 @@
-# One Day Hackathon Project (Time and Cost Optimization)
+#Food Delivery Management and Tracking System
 
 This Project aims at creating a system for the Chefensa food delivery start up in Bangalore. We have focused on two major objectives of the problem statement given to us  i.e. Delivering food in 45 minutes and making sure that the food delivered is hot. 
 
